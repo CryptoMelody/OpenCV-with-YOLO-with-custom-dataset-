@@ -106,8 +106,8 @@ After getting yolov4-obj_last.weights it's neccerary to use ESP32-AI CAM or anot
 **Caution**: your camera on ESP-32 can be too slow to detect sth, cause the video is consiststed from a lot of photographs, so that's why it's a little bit difficult for him to be on live (create a website) and take a lot of photographs.
 
 
-**IF YOU HAVE SOME PROBLEMS WITH DOWNLOADING, YOU CAN DOWNLOAD FROM THIS DOCUMANTATION!**
+**IF YOU HAVE SOME PROBLEMS WITH INSTALLING, YOU CAN INSTALL FROM THIS DOCUMANTATION!**
 
-**What i have in my documantation: yolov4.conv.137, ybat-master.zip (Yolo Bbox Annotation Tool),obj.data, example obj.names, example yolov4-obj_last.weights , generate_test.py, generate_train.py, example test.zip, exapmple images**
+**What i have in my documantation: yolov4.conv.137, ybat-master.zip (Yolo Bbox Annotation Tool),obj.data, example obj.names, example yolov4-obj_last.weights (I CANNOT DOWNLOAD IT (CAUSE FILE IS BIG) TRY TO GET IT BY YOURSELF OR SEE REPOSITORY FROM AI GUY ) , generate_test.py, generate_train.py, example test.zip, exapmple images**
 
 
