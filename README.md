@@ -75,7 +75,7 @@ imShow('**predictions.jpg**') - **Correct**  **🗸**
 
 After getting yolov4-obj_last.weights it's neccerary to use ESP32-AI CAM or another camera to test code on your own computer:
 
-1. Use my .ino code for Esp32-ai cam tp create a website where our video will be being streamed
+1. Use my .ino code for Esp32-ai cam to create a website where our video will be being streamed
 
 2. Use another code for VISUAL STUDIO to start Yolo_model
 
