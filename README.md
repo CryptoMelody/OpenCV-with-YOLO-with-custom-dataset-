@@ -9,11 +9,17 @@ https://colab.research.google.com/drive/12TpSVsA0wexmtaelXzVbU5rxhGLigMKi#scroll
 U can see that i added some lines in google colab like these:
 
 !apt-get update
+
 !apt-get instadev libtiff-dev libpng-dev
+
 !apt-get install -y libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
+
 !apt-get install -y libxvidcore-dev libx264-devll -y build-essential cmake git pkg-config
+
 !apt-get install -y libjpeg-
+
 !apt-get install -y libgtk-3-dev libatlas-base-dev gfortran
+
 !apt-get install -y python3-dev python3-numpy
 
 we use this lines to upgrade our OpenCV libraries!!!! IT'S IMPORTANT TO USE IT!!!!
@@ -21,7 +27,9 @@ we use this lines to upgrade our OpenCV libraries!!!! IT'S IMPORTANT TO USE IT!!
 ==================================
 
 !apt-get update
+
 !apt-get install -y build-essential cmake git libopencv-dev
+
 Then we just donwload all essentail libraries for OpenCV
 
 =================================
@@ -62,7 +70,7 @@ When you have trained your model and did other things, pay attention to these li
 imShow('**shop.jpg**') - **Incorrect** **⨯**
 
 !./darknet detector test data/obj.data cfg/yolov4-obj.cfg /mydrive/yolov4/backup/yolov4-obj_last.weights /content/gdrive/MyDrive/yolov4/images/**shop.jpg** -thresh 0.3
-imShow('**predictions.jpg**') - **Correct** ✔
+imShow('**predictions.jpg**') - **Correct**  **🗸**
 
 
 After getting yolov4-obj_last.weights it's neccerary to use ESP32-AI CAM or another camera to test code on your own computer:
