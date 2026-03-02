@@ -56,6 +56,18 @@ To train my model i was using Ybat BBOX Annotation Tool:
 
 https://github.com/drainingsun/ybat
 
+**When we send some files to Google disk compress your files like an AI Guy did!**
+
+How to compress file:
+
+1. Create a folder
+   
+2. Right click on folder
+   
+3. Choose: Send - Compressed (ZIP)
+   
+4. Send it to your google disk
+
 **Important information that u should keep in mind while training model !**
 
 1. When you did all things correctly and labeled all bboxes smothly(you don't have a lot of empty space of labled picture in bbox for example) and you have rewritten_bbox 0.000000% everytime - You did't do any mistakes (rewritten_bbox - could increase if your AI model just corrected your not good labeling while it is training )
