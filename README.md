@@ -52,7 +52,7 @@ https://github.com/drainingsun/ybat
 
 **Important information that u should keep in mind while training model !**
 
-1. When you did all things correctly and lambled all bboxes smothly(you don't have a lot of empty space of labled picture in bbox for example) and you have rewritten_bbox 0.000000% everytime - You did't do any mistakes (rewritten_bbox - could increase if your AI model just corrected your not good labeling while it is training )
+1. When you did all things correctly and labeled all bboxes smothly(you don't have a lot of empty space of labled picture in bbox for example) and you have rewritten_bbox 0.000000% everytime - You did't do any mistakes (rewritten_bbox - could increase if your AI model just corrected your not good labeling while it is training )
 
 2.If your loss at the beginning has this kind of numbers: 133.0000000
 And after an hour or 30 minutes you have - 0.0000000001 
