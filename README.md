@@ -6,7 +6,13 @@ https://colab.research.google.com/drive/12TpSVsA0wexmtaelXzVbU5rxhGLigMKi#scroll
 
 "preferably you should watch this video to understand all the lines in this code: https://www.youtube.com/watch?v=mKAEGSxwOAY&list=PLKHYJbyeQ1a3tMm-Wm6YLRzfW1UmwdUIN 
 
-and this video: https://www.youtube.com/watch?v=10joRJt39Ns&list=PLKHYJbyeQ1a0oGzgRXy-QwAN1tSV4XZxg"
+and this videos: https://www.youtube.com/watch?v=10joRJt39Ns&list=PLKHYJbyeQ1a0oGzgRXy-QwAN1tSV4XZxg
+
+https://www.youtube.com/watch?v=mKAEGSxwOAY&list=PLKHYJbyeQ1a3tMm-Wm6YLRzfW1UmwdUIN
+
+Also you can subscribe him on github and download all files from there:
+
+https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial/tree/master/yolov4
 
 =================================
 
