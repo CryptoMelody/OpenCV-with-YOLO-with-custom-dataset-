@@ -2,7 +2,7 @@
 
 First of all go to this link:
 
-https://colab.research.google.com/drive/12TpSVsA0wexmtaelXzVbU5rxhGLigMKi#scrollTo=KcUKbtO-byOE
+https://colab.research.google.com/drive/12TpSVsA0wexmtaelXzVbU5rxhGLigMKi?usp=sharing
 
 "preferably you should watch this video to understand all the lines in this code: https://www.youtube.com/watch?v=mKAEGSxwOAY&list=PLKHYJbyeQ1a3tMm-Wm6YLRzfW1UmwdUIN 
 
